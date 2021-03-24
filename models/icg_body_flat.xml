@@ -339,12 +339,12 @@
       <parameter id="Mhv_icg" name="icg amount (hepatic vein)" value="NaN" units="mg_per_l" constant="false"/>
       <parameter id="ER_icg" name="Extraction ratio ICG" value="NaN" units="dimensionless" constant="false"/>
       <parameter id="CLinfusion_icg" name="infusion clearance (steady state)" value="NaN" units="litre_per_min" constant="false"/>
-      <parameter id="LI__ICGIM_Vmax" value="0.075" units="mmole_per_min_l" constant="true"/>
-      <parameter id="LI__ICGIM_Km" value="0.1" units="mM" constant="true"/>
+      <parameter id="LI__ICGIM_Vmax" value="0.0224947931695564" units="mmole_per_min_l" constant="true"/>
+      <parameter id="LI__ICGIM_Km" value="0.0139278516554828" units="mM" constant="true"/>
       <parameter id="LI__ICGIM_ki_bil" value="0.02" units="mM" constant="true"/>
-      <parameter id="LI__ICGLI2CA_Vmax" value="0.5" units="mmole_per_min_l" constant="true"/>
-      <parameter id="LI__ICGLI2CA_Km" value="1e-06" units="mM" constant="true"/>
-      <parameter id="LI__ICGLI2BI_Vmax" value="0.5" units="LI__per_min" constant="true"/>
+      <parameter id="LI__ICGLI2CA_Vmax" value="0.000957515650206951" units="mmole_per_min_l" constant="true"/>
+      <parameter id="LI__ICGLI2CA_Km" value="0.0118484051192037" units="mM" constant="true"/>
+      <parameter id="LI__ICGLI2BI_Vmax" value="0.000114465458057661" units="LI__per_min" constant="true"/>
     </listOfParameters>
     <listOfRules>
       <assignmentRule variable="FVre">
